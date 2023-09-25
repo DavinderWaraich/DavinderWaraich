@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DavinderWaraich
 - 👀 I’m interested in Cyberseurity and Software Development
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on begineer Software Projects
+- 🌱 I’m currently learning HTML CSS and JS
+- 💞️ I’m looking to collaborate on begineer website development projects
 - 📫 How to reach me is through email: davywarraich1@gmail.com
 
 <!---
